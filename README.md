@@ -44,6 +44,7 @@ cd dist && http-server
 - [Babel](https://babeljs.io/)
 - [Sass](https://sass-lang.com/)
 - [PostCSS](https://postcss.org/)
+- [Tailwind](https://tailwindcss.com/)
 
 ## Dependencies
 
